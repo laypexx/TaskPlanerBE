@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.acme</groupId>
-	<artifactId>TaskManagerRESTapi</artifactId>
+	<artifactId>TaskManagerBE</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TaskManagerRESTapi</name>
+	<name>TaskManagerBE</name>
 	<description>Project to learn to work with spring</description>
 	<properties>
 		<java.version>17</java.version>
